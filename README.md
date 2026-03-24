@@ -1,5 +1,5 @@
 <h1 align="Left">Hi, I'm Awantika Ankushe</h1>
-<h3 align="Left">I'm a computer science student interested Data Analytics and open source. I find AI/ML fasinating, so I am making my foundations strong. in it. I enjoy building projects, participate in Hackathons and learning new technologies</h3>
+<h3 align="Left">I'm a computer science student interested Data Analytics and open source. I find AI/ML fasinating. I enjoy building projects, participate in Hackathons and learn new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AwantikaAnkushe&label=Profile%20views&color=0e75b6&style=flat" alt="AwantikaAnkushe" /> </p>
 
