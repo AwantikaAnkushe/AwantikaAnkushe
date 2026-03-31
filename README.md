@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AwantikaAnkushe&label=Profile%20views&color=0e75b6&style=flat" alt="AwantikaAnkushe" /> </p>
 
 
-- 🌱 I’m currently learning and exploring **Cloud and AI/ML.**
+- 🌱 I’m currently learning **Cloud and AI/ML.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
