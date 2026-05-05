@@ -47,9 +47,4 @@
   </tr>
 </table>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AwantikaAnkushe&show_icons=true&locale=en" 
-    alt="AwantikaAnkushe" 
-  />
-</p>
+
