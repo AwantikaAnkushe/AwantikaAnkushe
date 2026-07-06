@@ -2,7 +2,7 @@
 
 <h3 align="left">
   I'm a Computer Science student interested in Data Analytics and open source. 
-  I find Cloud Computing fascinating. I enjoy building projects, participating in hackathons, 
+  I find Cloud Computing, AI/ML fascinating. I enjoy building projects, participating in hackathons, 
   and learning new technologies.
 </h3>
 
