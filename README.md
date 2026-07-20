@@ -3,7 +3,7 @@
 <h3 align="left">
   I'm a Computer Science student interested in Data Analytics and open source. 
   I find Cloud Computing, AI/ML fascinating. I enjoy building projects, participating in hackathons, 
-  and learning new technologies.
+  and learning new technologies. I love being in tech!
 </h3>
 
 <p align="left">
