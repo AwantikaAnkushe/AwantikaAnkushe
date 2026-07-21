@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Awantika Ankushe</h1>
 
 <h3 align="left">
-  I'm a Computer Science student interested in Data Analytics and open source. 
-  I find Cloud Computing, AI/ML fascinating. I enjoy building projects, participating in hackathons, 
-  and learning new technologies. I love being in tech!
+I'm an MCA student passionate about Software Development, AI, Data Science, and Cloud.
+I enjoy building full-stack applications, exploring machine learning, contributing to innovative projects, and continuously 
+learning modern technologies to solve real-world problems.
 </h3>
 
 <p align="left">
