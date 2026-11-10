@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Awantika Ankushe</h1>
 
 <h3 align="left">
-I'm an MCA student passionate about Software Development, AI, and Cloud.
+I'm final year MCA student passionate about Software Development, AI, and Cloud.
 I enjoy building full-stack applications, contributing to innovative projects, and continuously 
 learning modern technologies to solve real-world problems.
 </h3>
@@ -14,7 +14,8 @@ learning modern technologies to solve real-world problems.
 </p>
 
 <ul>
-  <li>🌱 I’m currently learning <b>Cloud and AI/ML</b></li>
+  <li>🌱 I’m currently learning <b>Cloud and AI/ML</b></li>  
+  <li>🌱Exploring different domains <b>SAP SAC</b></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
