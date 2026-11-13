@@ -14,8 +14,8 @@ learning modern technologies to solve real-world problems.
 </p>
 
 <ul>
-  <li>🌱 I’m currently learning <b>Cloud and AI/ML</b></li>  
-  <li>🌱Exploring different domains <b>SAP SAC</b></li>
+  <li>🌱 I’m currently learning - <b>Cloud and AI/ML</b></li>  
+  <li>🌱Exploring different domains - <b>SAP SAC</b></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
